@@ -7,6 +7,9 @@ Built with **Next.js + TypeScript + Wagmi**.
 
 ## 🚀 Getting Started
 
+## Live Demo
+👉 [TSender UI on Vercel](https://tsender-carlos.vercel.app/)
+
 ### ✅ Requirements
 
 Make sure you have the following installed:
@@ -81,7 +84,9 @@ NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID=your_project_id
    pnpm run dev
    ```
 
-   The project will be available at: [http://localhost:3000](http://localhost:3000)
+   The project will be available at: [http://localhost:3000](http://localhost:3000) 
+   
+   or (https://tsender-carlos.vercel.app/) on vercel
 
 ---
 
@@ -114,5 +119,7 @@ This project is licensed under the [MIT License](LICENSE).
 - UI/UX improvements (colors, typography, better responsive design).  
 - Add loading indicators and clearer user notifications.     
 - Advanced validation of addresses and amounts before sending.  
-- Add a tx resume
+- Add a transaction summary before confirmation.  
+- Multi-network support (Ethereum, Polygon, etc.).  
+- Mobile-first optimizations.  
 
